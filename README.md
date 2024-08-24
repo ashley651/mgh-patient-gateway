@@ -1,7 +1,9 @@
 # MGH Patient Gateway
 
 The MGH Patient Gateway is a web application designed to streamline and manage patient information efficiently. 
+
 This project offers a user-friendly interface for patients to access their health data, manage appointments, communicate with healthcare providers, and handle billing information. 
+
 Built with modern web technologies, this application aims to provide a secure and accessible platform for both patients and healthcare providers. 
 
 ## Features
@@ -23,7 +25,9 @@ Built with modern web technologies, this application aims to provide a secure an
 - **Email:** [ashley651jones@outlook.com](mailto:ashley651jones@outlook.com)
 - **Website:** MGH Patient Gateway
 
-Ashley Jones is a seasoned software developer with extensive experience in building robust web applications. Master in coding and passionate about creating tools that improve patient care and data management. Ashley is always ready to help the developer community and contribute to open-source projects.
+Ashley Jones is a seasoned software developer with extensive experience in building robust web applications. 
+
+Master in coding and passionate about creating tools that improve patient care and data management. Ashley is always ready to help the developer community and contribute to open-source projects.
 
 ## Getting Started
 1. **Clone the Repository:**
