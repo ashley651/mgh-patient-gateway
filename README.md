@@ -33,7 +33,7 @@ Master in coding and passionate about creating tools that improve patient care a
 ## Getting Started
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/mgh-patient-gateway.git
+   git clone https://github.com/ashley651/mgh-patient-gateway.git
 2. **Navigate to the Project Directory:**
    ```bash
    cd mgh-patient-gateway
