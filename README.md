@@ -28,7 +28,7 @@ In this project, Node.js handles backend services, including API requests, data 
 
 Ashley Jones is a seasoned software developer with extensive experience in building robust web applications. 
 
-Master in coding and passionate about creating tools that improve patient care and data management. Ashley is always ready to help the developer community and contribute to open-source projects.
+- Master in coding and passionate about creating tools that improve patient care and data management. Ashley is always ready to help the developer community and contribute to open-source projects.
 
 ## Getting Started
 1. **Clone the Repository:**
